@@ -14,8 +14,6 @@
 #  F   F      T
 
 
-from traceback import print_tb
-
 
 logical = input("enter your logical statement: ")
 
